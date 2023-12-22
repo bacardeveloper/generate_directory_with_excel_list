@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "program": "C:\\Users\\niwrad\\Desktop\\archive_tool\\bin\\archive_tool.dart",
+            "name": "archive_tool",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
